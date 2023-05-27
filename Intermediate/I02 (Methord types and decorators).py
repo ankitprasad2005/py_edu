@@ -1,6 +1,4 @@
-print('OOP 5')
-print('Class variables, @classmethod ans @staticmethod')
-print()
+# types of methord and decorator
 
 class horce:
 	ls_hr = []
@@ -36,6 +34,3 @@ print (horce.num_horce())
 
 print()
 horce.spk_run(6)
-
-print()
-print('OOP 6')

@@ -6,10 +6,10 @@ data1 = 7
 data2 = 'hello'
 data3 = True
 data4 = 3.8
-print(type(data1))
+data5 = 
 print(type(data2))
 print(type(data3))
-print(type(data4))
+print(type(data5))
 print ()
 print ('Hi, I am.......')
 name = "Ankit Prasad"

@@ -12,7 +12,7 @@ class point(object):
 	def __sub__(self, p):
 		return point(self.x - p.x, self.y - p.y)
 	def __mul__(self, p):
-		return point(self.x * p.x, self.y * p.y)
+		return point(self.x * p.x, self.y * p.y) 
 	
 	def dis(self):
 		import math
