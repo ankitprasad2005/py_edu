@@ -12,3 +12,6 @@ ls3 = [fn1(x) for x in ls1]
 ls4 = [fn1(x) for x in ls1 if x%2 != 0]
 
 print(ls1 ,ls2, ls3, ls4)
+
+# to copy list 
+ls5 = ls1[:]
