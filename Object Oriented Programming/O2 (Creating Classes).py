@@ -22,6 +22,9 @@ class dumy(object):
 
 dum1 = dumy('Dum1', 7, 'green')
 dum2 = dumy('Dum2', 23, 'blue')
+
+print(dum1)
+
 dum1.describe()
 dum2.describe()
 dum1.change_size(9)
