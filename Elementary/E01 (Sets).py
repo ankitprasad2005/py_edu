@@ -23,6 +23,7 @@ e = st1.difference(st2)
 f = st2.difference(st1)
 
 g = st1.symmetric_difference(st2)
+h = st1 ^ st2
 
 print (a,b,c,d,e,f, g)
 
